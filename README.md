@@ -12,3 +12,4 @@ After doing this you should be able to run your VirtalBox VMs with full hardware
 
 > [!NOTE]
 > If after a reboot the green turle comes back, this means you have a UEFI lock to re-enable the Credential Guard, this page [https://learn.microsoft.com/en-us/windows/security/identity-protection/credential-guard/configure?tabs=intune] has instructions on how to disable this lock but I have not tried them so cannot say if it works.
+> Re-running the command in the instructions above should disable Credential Guard again.
